@@ -40,7 +40,7 @@ npm install
 
 1. Go to your [Kite Developer Console](https://kite.trade/apps).
 2. Select your app.
-3. Set the **Redirect URL** to: `http://localhost:5173/` (or the port your Vite server uses).
+3. Set the **Redirect URL** to: `http://localhost/` (or the port your Vite server uses).
 
 ### 4. Start the Development Server
 
@@ -48,7 +48,7 @@ npm install
 npm run dev
 ```
 
-The app will typically be available at `http://localhost:5173`.
+The app will typically be available at `http://localhost`.
 
 ### 5. Login & Authorize
 
