@@ -2,8 +2,6 @@
 
 Selfda is a high-performance, aesthetically pleasing AI-powered stock tracking dashboard designed for modern traders. It integrates with the Kite Connect API to provide real-time portfolio tracking, historical analysis, and AI-driven strategic insights.
 
-![Selfda Dashboard](https://images.unsplash.com/photo-1611974717484-7da00ff12990?auto=format&fit=crop&q=80&w=1000)
-
 ## ✨ Features
 
 - **Premium Dashboard**: A modern, high-contrast UI with glassmorphism and smooth animations.
