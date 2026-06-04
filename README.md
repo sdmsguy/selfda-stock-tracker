@@ -1,6 +1,6 @@
-# Selfda - Premium AI Trading Intelligence
+# Selfda - Focused Zerodha Dashboard
 
-Selfda is a high-performance, aesthetically pleasing AI-powered stock tracking dashboard designed for modern traders. It integrates with the Kite Connect API to provide real-time portfolio tracking, historical analysis, and AI-driven strategic insights.
+Selfda is a high-performance, AI-powered stock tracking dashboard designed for modern traders. It integrates with the Kite Connect API to provide real-time portfolio tracking, historical analysis, and AI-driven strategic insights.
 
 ## ✨ Features
 
